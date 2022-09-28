@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.Footer{
+    width: 100%;
+    height: 50px;
+    left: -110px;
+    margin-top: 770px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}

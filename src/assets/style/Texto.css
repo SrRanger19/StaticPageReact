@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.Texto{
+    width: 119.2%;
+    height: 720px;
+    background-color: rgb(40, 40, 40);
+    border-top: rgb(255, 183, 3) solid;
+    position: absolute;
+    left: -110px;
+    margin-top: 30px;
+}
+
+.Texto h2{
+    font-size: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #ff0000;
+}
+
+.Texto p{
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #cc99ff;
+}
